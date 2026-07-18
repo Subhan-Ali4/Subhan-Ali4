@@ -21,7 +21,7 @@
 - 🛠️ Currently building **Detectify** — an AI-powered deepfake detection system (my Final Year Project)
 - 🌱 Learning Kubernetes, Ansible, and observability tooling (Prometheus/Grafana)
 - 💬 Ask me about Docker, Terraform, CI/CD pipelines, or AWS
-- 📍 Based in Punjab, Pakistan — open to DevOps/Trainee roles in Lahore
+- 📍 Based in lahore Punjab, Pakistan — open to DevOps/Trainee roles in Lahore/Gujranwala remote and onsite
 
 ---
 
@@ -42,19 +42,6 @@
 **Detectify** — AI-powered deepfake detection system using CNN+LSTM, Django REST backend, React frontend, containerized with Docker and deployed via Jenkins CI/CD on AWS EC2.
 
 <br clear="left"/>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Subhan-Ali4&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhan-Ali4&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhan-Ali4&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
